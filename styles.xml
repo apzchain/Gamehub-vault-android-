@@ -1,0 +1,9 @@
+
+<resources>
+    <style name="Theme.GameVault" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#7C4DFF</item>
+        <item name="android:navigationBarColor">#101114</item>
+        <item name="android:statusBarColor">#101114</item>
+    </style>
+</resources>
